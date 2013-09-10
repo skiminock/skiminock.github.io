@@ -1,0 +1,60 @@
+input[type="text"] {
+	border: none;	
+	width: 300px;
+	height: 25px;	
+}
+	textarea {
+		resize: none;
+		border: none;
+		width: 535px;
+		height: 370px;
+		float: left;
+		margin-left: 9px;
+	}
+
+.all-form {
+	width: 630px;		
+	float: left;	
+	margin-left: 5px;
+	margin-top: 4px;
+}
+.all-form > h2 {
+	font: 30px Vegur-Regular;
+	margin-left: 5px;
+	margin-top: 62px;	
+	letter-spacing: -1px;
+	font-weight: 500;	
+}
+#contact-form {
+	margin-top: -15px;
+}
+	.send-message {
+		float:left;
+		width: 385px;
+	}
+	.field {
+		clear:both; 
+		text-align:right; 
+		line-height:25px;
+		margin-left: 5px;
+		padding: 4px 0;
+	}
+		.field > label {
+			float:left; 
+			padding-right:10px;
+			margin-top: 5px;
+			font: 14px Arial;
+		}
+.form-option {
+	clear: both;
+	float: right;
+	margin-top: 14px;
+}
+.form-option > a {
+	font: 14px Arial;
+	color: rgb(42, 181, 186);
+	margin-right: 5px;	
+	margin-left: 30px;				
+	text-decoration: none;
+	border-bottom: 1px solid rgb(42, 181, 186);
+}

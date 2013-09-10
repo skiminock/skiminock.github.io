@@ -1,0 +1,31 @@
+#menu-item {
+	font: 18px Ropa Sans; 
+	width: 90%;
+	height: 90%;
+	margin-top: 30px;
+	margin-left: 140px;
+}
+#menu-item a:hover {
+	color: rgb(42, 181, 186);	
+}
+#menu-item a, 
+#menu-item span
+{
+	float:left; 
+	text-align:center; 
+	display:block; 
+	letter-spacing: -1px;
+}
+#menu-item span {
+	color: rgb(42, 181, 186);
+	border-radius: 5px;	
+	background-color: white; 
+	padding: 17px 24px;
+}
+#menu-item a {
+	color: black;	
+	text-decoration: none;	
+	background: url(../pictures/sep.png) 0 100% no-repeat;
+	background-position:right;
+	padding: 17px 24px;
+}
